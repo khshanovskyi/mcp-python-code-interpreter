@@ -1,0 +1,20 @@
+# MCP Server dependencies
+fastmcp==2.10.1
+
+# Data validation and serialization
+pydantic==2.11.10
+
+# Jupyter kernel management
+ipykernel==6.30.1
+jupyter-client==8.6.3
+nbformat==5.10.4
+
+# Scientific computing
+pandas>=2.3.3
+numpy>=2.3.3
+plotly>=6.3.1
+kaleido>=0.2.1
+kaleido>=1.1.0
+matplotlib>=3.10.6
+seaborn>=0.13.2
+sympy>=1.14.0
